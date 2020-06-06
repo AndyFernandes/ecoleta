@@ -1,5 +1,8 @@
 {
     "material-icon-theme.folders.associations": {
         "migrations": "tools"
+    },
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
     }
 }
